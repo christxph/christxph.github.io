@@ -2734,7 +2734,7 @@
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #33b3bc;
 			}
 
 			.tiles article.style3 > .image:before {
@@ -2751,6 +2751,10 @@
 
 			.tiles article.style6 > .image:before {
 				background-color: #8499e7;
+			}
+
+			.tiles article.style7 > .image:before {
+				background-color: #454545;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
