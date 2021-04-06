@@ -2757,6 +2757,14 @@
 				background-color: #454545;
 			}
 
+			.tiles article.styleR2o > .image:before {
+				background-color: #1493BE;
+			}
+
+			.tiles article.styleGreen > .image:before {
+				background-color: #08e5a7;
+			}
+
 			body:not(.is-touch) .tiles article:hover > .image {
 				-moz-transform: scale(1.1);
 				-webkit-transform: scale(1.1);
